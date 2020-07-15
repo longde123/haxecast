@@ -1,0 +1,9 @@
+-swf bin/FlashDemo.swf
+-cp src 
+-main DemoPlayer
+-lib hsl-1 
+-lib feffects
+-swf-header 448:252:60:FFFFFF 
+--flash-strict 
+-swf-version 10.2 
+-D production 
